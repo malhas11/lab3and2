@@ -1,0 +1,14 @@
+body {
+    background-color: darkgray;
+    margin: 50px;
+}
+h4 { 
+    color: red;
+}
+nav ul li{
+    display: inline-block;
+    size: 40px;
+    color: lightgoldenrodyellow;
+
+}
+
